@@ -1,0 +1,4 @@
+baseURL = 'https://ToonExodia.github.io/toonexodia.github.io'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'PaperMod'
